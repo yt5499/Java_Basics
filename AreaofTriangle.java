@@ -20,7 +20,7 @@ public class AreaofTriangle {
 		Double aot = (h*b)/2;
 		
 //		print area of triangle
-		System.out.printf("Area of triangle = %.3f",aot);		//	here print output with 3 decimal places use printf on println
+		System.out.printf("Area of triangle = %.3f",aot);		//	here print output with 3 decimal places use printf on println for proper formatting
 		
 	}
 
